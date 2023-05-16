@@ -26,4 +26,4 @@ jobs:
         sketch-paths: |
           - ./LED
         libraries: |
-          - name: Arduino_FastLED
+          - name: FastLED
